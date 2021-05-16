@@ -21,7 +21,7 @@ print ("a is greater than b") if a > b else print ("a is equal to b") if a == b 
 if True and True:
     print (True)
 
-if True or False:
+if True or not(False):
     print (True)
 
 if a > b:

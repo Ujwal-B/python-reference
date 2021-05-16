@@ -11,7 +11,7 @@ def say_hi():                                                           # functi
 def age(agenum):
     print("You are " + str(agenum) + " years old!")
 
-# say_hi()                                                                # calling function
+say_hi()                                                                # calling function
 
 def add(num1, num2):
     return num1 + num2
