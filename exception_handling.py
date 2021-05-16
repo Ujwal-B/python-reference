@@ -1,4 +1,4 @@
-# error handling
+# exception handling
 
 try:
 	print(Something)
