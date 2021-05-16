@@ -33,3 +33,9 @@ print(random_numbers)
 
 friends2 = friends.copy()   # copies entire list, takes no arguments
 print(friends2)
+
+# in operator
+if ("Abhi" in friends):
+    print("Abhi is a friend")
+if ("Aman" not in friends):
+    print("Aman is not a friend")
